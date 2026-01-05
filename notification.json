@@ -1,0 +1,20 @@
+{
+  "notifications": [
+    {
+      "id": "spwa_01",
+      "enabled": true,
+      "version": 1,
+      "title": "Welcome to CMWhatsApp Pro!",
+      "message": "Thanks for installing. Check out new features!",
+      "url": ""
+    },
+    {
+      "id": "spwa_user_04",
+      "enabled": true,
+      "version": 1,
+      "title": "CSModz Team",
+      "message": "We wish you a happy 2026, a year where all your hopes come true. 🎉",
+      "url": "https://t.me/csmodz_official"
+    }
+  ]
+}
